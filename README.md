@@ -22,5 +22,5 @@ rosrun cytron_jetracer MY_run.py
 To reset,
 
 ```
-  rosrun cytron_jetracer shutdown.py
+rosrun cytron_jetracer shutdown.py
 ```
