@@ -5,7 +5,7 @@ Tutorial page: https://tutorial.cytron.io/?p=38120
 
 Controller: Nvidia Jetson Nano Developer Kit B01 (4GB)
 
-OS version: Jetpack 4.5.1
+OS version: Jetpack 4.5.1.
 Download link: https://drive.google.com/file/d/1aPbzQ0_Uja0jVD48oZUAuYYAz10JgbZu/view?usp=sharing
 
 ROS version: ROS Melodic
