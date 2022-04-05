@@ -15,10 +15,12 @@ AGV Node: https://github.com/mych907/agv_master
 
 On terminal,
 
-'''
+```
 rosrun cytron_jetracer MY_run.py
-'''
+```
 
 To reset,
 
+```
   rosrun cytron_jetracer shutdown.py
+```
