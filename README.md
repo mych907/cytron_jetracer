@@ -27,3 +27,9 @@ To reset,
 ```
 rosrun cytron_jetracer shutdown.py
 ```
+
+To start, publish an empty message once to the topic /start.
+
+```
+rostopic pub start /std_msgs/Empty --once
+```
