@@ -25,7 +25,7 @@ rosrun cytron_jetracer MY_run.py
 To start, publish an empty message once to the topic /start.
 
 ```
-rostopic pub start /std_msgs/Empty --once
+rostopic pub start std_msgs/Empty --once
 ```
 
 After each run, a reset is expected. Otherwise, the Jetracer may have active throttle value. Run the following command:
